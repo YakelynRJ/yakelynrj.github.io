@@ -6,3 +6,6 @@ img: /assets/img/project_1.png
 importance: 1
 category: work
 ---
+<div class="row">
+        {% pdf "https://atmos.washington.edu/~yakelynr/website_pdfs/S2S_CESM_Talk.pdf" %}
+</div>
