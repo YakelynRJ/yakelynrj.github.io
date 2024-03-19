@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="">
         {% pdf "https://atmos.washington.edu/~yakelynr/website_pdfs/S2S_CESM_Talk.pdf" %}
     </div>
 </div>
