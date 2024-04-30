@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://atmos.uw.edu/faculty-and-research/current-graduate-students/'>Affiliation</a> 
+subtitle: <a href='https://atmos.uw.edu/faculty-and-research/current-graduate-students/'> University of Washington </a> 
 
 profile:
   align: right
