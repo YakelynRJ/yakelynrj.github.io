@@ -134,9 +134,6 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://www.zla.app/" target="_blank">★</a>
 <a href="https://stavros.github.io" target="_blank">★</a>
 <a href="https://ericslyman.com" target="_blank">★</a>
-<a href="https://ztjona.github.io/" target="_blank">★</a>
-<a href="https://chrischoi314.github.io" target="_blank">★</a>
-<a href="https://riccobelli.faculty.polimi.it" target="_blank">★</a>
 </td>
 </tr>
 <tr>
@@ -202,7 +199,7 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
     - [Mobile](#mobile)
   - [Table Of Contents](#table-of-contents)
   - [Getting started](#getting-started)
-  - [Installing and Deploying](#installing-and-deploying)
+  - [Installing](#installing)
   - [Customizing](#customizing)
   - [Features](#features)
     - [Light/Dark Mode](#lightdark-mode)
@@ -230,11 +227,11 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
 
 ## Getting started
 
-Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/). Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/)! Why write a blog? Read [Rachel Thomas blog post](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045).
+Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/). Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/)!
 
-## Installing and Deploying
+## Installing
 
-For installation and deployment details please refer to [INSTALL.md](INSTALL.md).
+For installation details please refer to [INSTALL.md](INSTALL.md).
 
 ## Customizing
 

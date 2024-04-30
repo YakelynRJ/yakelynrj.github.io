@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://atmos.uw.edu/faculty-and-research/current-graduate-students/'>Affiliation</a> 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: >
+    <p>ATG Building</p>
+    <p>Seattle, Washington</p>
+    <p>yakelynr@uw.edu</p>
 
-news: true # includes a list of news items
+news: False  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
+I recently earned my **PhD in Atmospheric Science** from the **University of Washington**, working with <a href="https://orca.atmos.washington.edu/">Professor Shuyi Chen</a>. My research focused on the physical processes by which the Madden-Julian Oscillation (MJO) influences the variability of the eastern edge of the warm pool and contributes to the early development of El Niño. My PhD work was a processes-based study that used in-situ observations, satellite-derived datasets, and high-resolution atmosphere-ocean coupled model simulations, aiming to understand better the multiscale air-sea interactions  of the MJO and ENSO interaction. For more, take a look at my **<a href="/assets/pdf/cv2024.pdf">curriculum vitae</a>** or <a href="/publications">publications</a>.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+During my graduate years at UW, I actively contributed to the Tropical Pacific Observing System (TPOS) and the Observing Air-sea Interactions Strategy (OASIS), demonstrating my commitment to the advancement of our field. I also had the privilege of collaborating with my advisor and scientists from NOAA PMEL on designing an international field campaign scheduled for 2026, further showcasing my dedication to practical research and application.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+One of my **passions** is to enhance our understanding of the multiscale air-sea sea interactions associated with the MJO-ENSO interaction. Understanding these governing processes of these interactions is paramount for refining the representation of such physical processes in fully coupled models, thereby enhancing the accuracy of ENSO representation and prediction. 
