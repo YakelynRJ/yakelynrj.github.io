@@ -11,6 +11,6 @@ Kirsten Mayer, Meriem Krouma, Yuntao Wei and myself :)
 The overview and objectives of the workshop are described in the following document: 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <object data="../../assets/pdf/MJO_predictability.pdf" width="1000" height="1000" type='application/pdf'></object>
+        <object data="../assets/pdf/MJO_predictability.pdf" width="1000" height="1000" type='application/pdf'></object>
     </div>
 </div>
