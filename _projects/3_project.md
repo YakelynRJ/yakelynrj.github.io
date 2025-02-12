@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Machine Learning to improve Clouds in Climate Models
-img: /assets/img/project_2.png
+img: /assets/img/project_3.png
 importance: 3
 category: work
 ---
