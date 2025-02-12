@@ -9,5 +9,6 @@ category: work
 Hello, we are a group of early career scientists helping organize this workshop! 
 Kirsten Mayer, Meriem Krouma, Yuntao Wei and myself :)
 
-The overview and objectives of the workshop are described in this <a href="../../assets/pdf/MJO_Predictability.pdf"> document </a> 
+The overview and objectives of the workshop are described in this <a href="../../assets/pdf/MJO_Predictability.pdf"> document </a>.
 
+ <object data="../../assets/pdf/MJO_Predictability.pdf" width="1000" height="1000" type='application/pdf'></object>
