@@ -6,7 +6,7 @@ subtitle: <a href='https://atmos.uw.edu/faculty-and-research/current-graduate-st
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_2144.jpeg
   address: >
     <p>ATG Building</p>
     <p>Seattle, Washington</p>
