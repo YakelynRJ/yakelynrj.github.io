@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://atmos.uw.edu/faculty-and-research/current-graduate-students/'> University of Washington </a> 
 
